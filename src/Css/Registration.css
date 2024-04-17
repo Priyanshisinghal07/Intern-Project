@@ -1,0 +1,94 @@
+.img-box{
+    position: relative;
+}
+.image1{
+    width: 541px;
+    height: 700px;
+    gap: 0px;
+    opacity: 0px; 
+    
+    position: absolute;
+}
+.image{
+    position: absolute;
+    top: 166px; /* Set the top position of the second image */
+    left: 86px; /* Set the left position of the second image */
+    width: 385px; /* Set the width of the second image */
+    height: 385px; /* Set the height of the second image */
+    object-fit: cover;
+}
+.img-heading{
+    font-family: "Poppins", sans-serif;
+font-size: 32px;
+font-weight: 600;
+line-height: 48px;
+
+position: absolute;
+color: white;
+top: 525px;
+left: 100px;
+}
+.img-heading span{
+    color: greenyellow;
+}
+.img{
+    width: 98px;
+    height: 98px;
+    top: 73px;
+
+    
+ }
+ .navbar{
+    top:40px;
+     margin-bottom: 60px;
+   
+ }
+/* .login{
+    margin-right: 290px;
+}
+.signup{
+    margin-left: 130px;
+} */
+
+
+ .signup,
+ .login
+ {
+    text-decoration: none;
+    font-family: Poppins;
+font-size: 30px;
+font-weight: 600;
+/* line-height: 45px; */
+margin-right: 100px;
+color: black;
+
+ }
+ .line{
+    border: 1px solid grey;
+ }
+ .text{
+    width: 250px;
+height: 32px;
+/* top: 327px; 
+ left: 631px; */
+
+ border-top: none;
+ border-left: none;
+ border-right: none;
+ 
+color: gray;
+
+ }
+input placeholder:hover{
+    color: black;
+}
+
+.signupbtn{
+    text-align: center;
+}
+.btn{
+  color: white;
+  background-color: rgb(29, 28, 28);
+  border-radius: 15px;
+  padding:8px 16px 8px 16px ;
+}

@@ -1,0 +1,71 @@
+.img-box1{
+    position: relative;
+}
+.image2{
+    width: 541px;
+    height: 700px;
+    gap: 0px;
+    opacity: 0px; 
+    
+    position: absolute;
+}
+.image3{
+    position: absolute;
+    top: 166px; /* Set the top position of the second image */
+    left: 86px; /* Set the left position of the second image */
+    width: 385px; /* Set the width of the second image */
+    height: 385px; /* Set the height of the second image */
+    object-fit: cover;
+}
+/* .nav1{
+    top:40px;
+     margin-bottom: 60px;
+   
+ }
+ .signup1,
+ .login1
+ {
+    text-decoration: none;
+    font-family: Poppins;
+font-size: 30px;
+font-weight: 600;
+
+margin-right: 100px;
+color: black;
+
+ } */
+ /* .img1{
+    width: 98px;
+    height: 98px;
+    top: 73px;
+
+    
+ } */
+ .login-box{
+    box-shadow: 0 5px 10px rgba(125, 126, 138, 0.6);
+    border-radius: 0.5rem;
+    background: white;
+    
+     padding: 1.7rem 1.5rem;
+    margin-top: 1.5rem;
+   
+margin-left:6rem ;
+ }
+ .para-heading{
+    font-size: 0.8rem;
+ }
+ .log-head{
+    font-size: 1.5rem;
+    text-align: center;
+ }
+ .text-input{
+font-size: 1.2rem;
+ }
+ .log-form{
+    text-align: center;
+ }
+ .loginbtn{
+    text-align: center;
+    margin-left: 18rem;
+    margin-top: 1rem;
+ }
